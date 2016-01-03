@@ -1,7 +1,7 @@
 {
   "name": "cars-counter-bbn-google-analytics",
   "description": "A cars counter for the Google Analytics tag in blog.bouzuya.net",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "bouzuya",
     "email": "m@bouzuya.net",
